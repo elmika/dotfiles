@@ -1,0 +1,8 @@
+[user]
+	name=mika
+	email = 1506612+elmika@users.noreply.github.com
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[core]
+	exclude = /Users/mika/.gitignore_global
+	excludesfile = /Users/mika/.gitignore_global
